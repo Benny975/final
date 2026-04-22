@@ -41,7 +41,7 @@ li {
   padding-right: 25px;
 }
 
-li :hover {
+li:hover {
   color: var(--main-color);
 }
 
